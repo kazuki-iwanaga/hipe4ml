@@ -5,7 +5,7 @@
 ## Memo
 `pip v20`では`xgboost`がインストールできない。
 https://github.com/dmlc/xgboost/issues/5221
-この問題は`pip`をダウングレードすることで解決できた。
+この問題は`pip`をダウングレードすることで解決した。
 ```
 pip install pip==19.3.1
 pip install hipe4ml
