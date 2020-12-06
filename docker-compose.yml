@@ -3,6 +3,7 @@ services:
     jupyroot:
         image: iwng/jupyroot:hipe4ml
         container_name: jupyroot
+        user: jovyan
         ports:
             - 8889:8888
         volumes:
