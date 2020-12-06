@@ -1,3 +1,17 @@
+# ML Seminar Dec. 7-8 2020
+下の方にこのリポジトリのHowToUseあります。
+- `hipe4ml v0.0.8`
+
+## Memo
+`pip v20`では`xgboost`がインストールできない。
+https://github.com/dmlc/xgboost/issues/5221
+この問題は`pip`をダウングレードすることで解決できた。
+```
+pip install pip==19.3.1
+pip install hipe4ml
+```
+
+-----
 # Infomation
 
 - `ROOT v6.20.04`
