@@ -1,4 +1,9 @@
 # ML Seminar Dec. 7-8 2020
+
+```
+git clone --recursive https://github.com/kazuki-iwanaga/hipe4ml
+```
+
 下の方にこのリポジトリのHowToUseあります。
 - `hipe4ml v0.0.8`
 
