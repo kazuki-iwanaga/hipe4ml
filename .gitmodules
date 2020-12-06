@@ -1,0 +1,3 @@
+[submodule "notebook/hipe4ml"]
+	path = notebook/hipe4ml
+	url = https://github.com/hipe4ml/hipe4ml
